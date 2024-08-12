@@ -34,11 +34,9 @@ _Остальные партиклы можно приобрести в наше
 
 <figure><img src="../../.gitbook/assets/image (9).png" alt="" width="450"><figcaption><p>применение /co lookup</p></figcaption></figure>
 
+Доступ к `/poop` и `/fart`
 
-
-Доступ к 5 цветам свечения `/glow`
-
-<figure><img src="../../.gitbook/assets/Без имени-1.png" alt="" width="563"><figcaption><p> </p></figcaption></figure>
+Доступ к `/sex` 🤫
 
 ### Как приобрести?
 

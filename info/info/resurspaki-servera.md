@@ -20,7 +20,7 @@ layout:
 
 Куча переименований, бомбезный ресурспак. Добавляет более 1800 предметов по переименованию.
 
-{% hint style="success" %}
+{% hint style="info" %}
 Скачать ресурспак: [https://drive.google.com/file/d/1BNqQG1WPXkpJLhcz4fx-vbLX97-GUw5w/view](https://drive.google.com/file/d/1BNqQG1WPXkpJLhcz4fx-vbLX97-GUw5w/view)
 
 Все переименования: [https://definitelyawhale.github.io/ksepsp\_website/](https://definitelyawhale.github.io/ksepsp\_website/)
@@ -30,7 +30,7 @@ layout:
 
 Заменяет Алмазную Руду на валюту - АР. Взят с СП&#x20;
 
-{% hint style="success" %}
+{% hint style="info" %}
 Скачать ресурспак: [https://drive.google.com/file/d/1LZLTlbI9Dn0h4\_mBANtE8H1\_COjD-1EY/view?usp=sharing](https://drive.google.com/file/d/1LZLTlbI9Dn0h4\_mBANtE8H1\_COjD-1EY/view?usp=sharing)
 {% endhint %}
 
@@ -38,6 +38,6 @@ layout:
 
 Заменяет тотем на Романа Бацарашкина
 
-{% hint style="success" %}
+{% hint style="info" %}
 Роман скачать: [https://drive.google.com/file/d/1v0Pj1oJUMSwcQvFqsyFJ3I1CAd0HiPRd/view?usp=sharing](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 {% endhint %}

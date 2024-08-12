@@ -34,11 +34,8 @@ layout:
 
 ### > EmoteCraft <a href="#emotecraft" id="emotecraft"></a>
 
-Мод на эмоции, танцы, жесты, и тому подобное. **Рекомендуем к установке.**&#x20;
-
-На данный момент всё ещё официально не вышел на 1.21, ниже порт на новейшую версию
-
-Скачать:&#x20;
+Мод на эмоции, танцы, жесты, и тому подобное. **Рекомендуем к установке.** \
+На данный момент всё ещё официально не вышел на 1.21, ниже порт на новейшую версию[https://modrinth.com/plugin/noemotecraft/versions](https://modrinth.com/plugin/noemotecraft/versions)
 
 <figure><img src="../../.gitbook/assets/2024-04-17_22.54.20.png" alt="" width="563"><figcaption><p>Порт BendyLib не вышел, не все позы нормально работают(((</p></figcaption></figure>
 
@@ -76,13 +73,13 @@ layout:
 
 Данный мод позволяет записывать геймплей в виде реплея, этого мода нету в сборке т.к. не все в нём разбираются, но в большинстве случаев именно он может помочь выявить кто нарушил то или иное правило. **Рекомендуем к установке**
 
-Скачать: [https://modrinth.com/mod/replaymod/versions?l=fabric](https://modrinth.com/mod/replaymod/versions?l=fabric)
+Скачать: [https://modrinth.com/mod/replaymod/versions?l=fabric\&g=1.21](https://modrinth.com/mod/replaymod/versions?l=fabric\&g=1.21)
 
 ### > Show me your skin!
 
 Мод позволяет делать броню прозрачнее что помогает увидеть именно скин игрока. **Прикольный мод, можно добавить**
 
-Скачать: [https://modrinth.com/mod/show-me-your-skin/versions](https://modrinth.com/mod/show-me-your-skin/versions)
+Скачать:[ ](https://modrinth.com/mod/show-me-your-skin/versions?g=1.21)[https://modrinth.com/mod/show-me-your-skin/versions?g=1.21](https://modrinth.com/mod/show-me-your-skin/versions?g=1.21)
 
 <figure><img src="../../.gitbook/assets/ezgif-5-baa52ee260.gif" alt=""><figcaption></figcaption></figure>
 
@@ -90,7 +87,7 @@ layout:
 
 Позволяет увидеть содержимое шалкера без надобности ставить его. **Удобный мод, рекомендуем**
 
-Скачать: [https://modrinth.com/mod/shulkerboxtooltip/versions?l=fabric](https://modrinth.com/mod/shulkerboxtooltip/versions?l=fabric)
+Скачать:[ ](https://modrinth.com/mod/shulkerboxtooltip/versions?l=fabric\&g=1.21)[https://modrinth.com/mod/shulkerboxtooltip/versions?l=fabric\&g=1.21](https://modrinth.com/mod/shulkerboxtooltip/versions?l=fabric\&g=1.21)
 
 <figure><img src="../../.gitbook/assets/Снимок экрана 2024-04-17 234250.png" alt=""><figcaption></figcaption></figure>
 
@@ -110,4 +107,4 @@ layout:
 
 Добавляет множество звуков для клиента майнкрафта. Проще говоря много крутых звуков при выборе блоков, писании в чат и т.п.. **Крутой мод, можно поставить**
 
-Скачать: [https://modrinth.com/mod/sound/versions](https://modrinth.com/mod/sound/versions)
+Скачать: [https://modrinth.com/mod/sound/versions?g=1.21](https://modrinth.com/mod/sound/versions?g=1.21)
