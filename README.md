@@ -14,12 +14,18 @@ layout:
 
 # 📑 Основная информация по серверу
 
+{% hint style="danger" %}
+Многая информация отсюда более неактуальна&#x20;
+{% endhint %}
+
+
+
 **VanillaCore** - это ламповый <mark style="color:blue;">Vanilla+</mark> Minecraft сервер, основанный на классическом выживании без гриферства и привата. Мы делаем акцент на нашем комьюнити.
 
 {% hint style="info" %}
-**IP** - `play.vanillacore.ru`
+**IP** - `play.vanillacore.ru / mc.vanillacore.ru`
 
-**Версия** -`1.21 Java Edition`
+**Версия** -`1.21.X Java Edition`
 {% endhint %}
 
 ## Как попасть на сервер?

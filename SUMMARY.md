@@ -11,7 +11,6 @@
   * [🎵 Основные фишки](info/fish/fish-base.md)
   * [🗨️ Команды](info/fish/fish-cmd.md)
   * [🪄 Функции](info/fish/fish-func.md)
-  * [👤 Изменённые жители](info/fish/izmenyonnye-zhiteli.md)
   * [📦 Система ресурспаков](info/fish/fish-rp.md)
   * [🏙️ Система территорий](info/fish/fish-terr.md)
   * [💲 Банк](info/fish/bank.md)
